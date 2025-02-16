@@ -18,3 +18,6 @@ I can't to host the bot :(. Therefore it unaccessible
 
 To host yourself the bot, rename `config_template.toml` to `config.toml`.
 Fill up the configuration (api_id, api_hash you can get here: https://my.telegram.org).
+
+You can also use another database of SQLite: PostgreSQL, MySQL, MSSQL, ...
+Setup `database_uri` parameter of configuration.
