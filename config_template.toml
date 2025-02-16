@@ -1,0 +1,12 @@
+
+api_id = ""
+api_hash = ""
+bot_token = ""
+
+database_uri = "sqlite:///bot.db"
+
+####
+
+# Technical configuration
+log_level = 'debug'
+test_link_length = 12
